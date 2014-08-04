@@ -1,2 +1,2 @@
-cacador-o-acerto-de-contas
-==========================
+Caçador: O Acerto de Contas
+===========================
