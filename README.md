@@ -1,5 +1,6 @@
 # Caçador: O Acerto de Contas
 
+*Este é um projeto de tradução de inglês para português-br do livro "Hunter: The Reckoning".*
 
 ###  Table of Contents
 
@@ -16,3 +17,16 @@
 * Chapter 9: The Enemy (Antagonists)
 * Appendices
 * Epilogue
+
+## Organização
+
+A tradução será organizada por pastas e subpastas de acordo com o Capítulo, a Sessão e o Tópico.  
+Exemplo:
+
+    01 - Introduction (Capítulo - page 12)
+        01 - Intro (Sessão - page 12)
+            01 - Intro.md
+        02 - What Is This Place ? (Sessão - page 14)
+            01 - Intro.md
+            02 - Gothic-Punk.md (Tópico - page 15)
+    
